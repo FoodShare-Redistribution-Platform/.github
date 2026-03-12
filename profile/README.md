@@ -3,6 +3,10 @@
 This repository contains the frontend web application for **Replate**, a community-driven platform designed to reduce food waste by connecting surplus food donors with NGOs and volunteers.
 
 ---
+## Deployment Links
+Backend - https://replate-backend-hhk7.onrender.com
+Frontend - https://replate-frontend.onrender.com
+---
 
 ## 📑 Table of Contents
 1. [Introduction](#1-introduction)
